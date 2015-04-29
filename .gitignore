@@ -1,0 +1,10 @@
+
+*.pbxproj
+
+ctfly.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
+ctfly.xcodeproj/project.xcworkspace/xcuserdata/wangheng.xcuserdatad/UserInterfaceState.xcuserstate
+
+ctfly.xcodeproj/xcuserdata/wangheng.xcuserdatad/xcschemes/ctfly.xcscheme
+
+ctfly.xcodeproj/xcuserdata/wangheng.xcuserdatad/xcschemes/xcschememanagement.plist
